@@ -9,6 +9,11 @@ verify_ssl = true
 jupyter = "*"
 pandas = "*"
 xlrd = "*"
+matplotlib = "*"
+googlemaps = "*"
+sklearn = "*"
+seaborn = "*"
+folium = "*"
 
 [requires]
 python_version = "3.6"
